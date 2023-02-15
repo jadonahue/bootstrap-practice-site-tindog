@@ -2,6 +2,6 @@ bootstrap-practice-site-tindog
 
 This is a practice website to customizing with bootstrap. 
 
-This is not a real site or app. Therefore pricing are not real, testimonials are not real, brand endorsements are not real, etc. 
+This is not a real site or app. Pricing is not real, testimonials are not real, brand endorsements are not real, etc. 
 
 This is primarily for learning purposes.
