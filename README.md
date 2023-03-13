@@ -1,7 +1,3 @@
 bootstrap-practice-site-tindog
 
-This is a practice website to customizing with bootstrap. 
-
-This is not a real site or app. Pricing is not real, testimonials are not real, brand endorsements are not real, etc. 
-
-This is primarily for learning purposes.
+This is a static website called Tindog. It's a fun made up dating site for real life dogs which focuses on front-end development. The primary focus is how the page looks to the end user and is specifically built using Bootstrap, HTML, and CSS.
