@@ -1,7 +1,56 @@
-bootstrap-practice-site-tindog
+<h1>Tindog Site</h1>
 
-This is a practice website to customizing with bootstrap. 
+<p>
+This is a static responsive website called Tindog. This is a fun made-up dating site for real-life dogs that focuses on front-end development. This is built specifically using Bootstrap, HTML, and CSS.
+</p>
 
-This is not a real site or app. Pricing is not real, testimonials are not real, brand endorsements are not real, etc. 
+<h2>Navbar Section</h2>
+<p>
+<img src="images/navbar.png">
+</p>
 
-This is primarily for learning purposes.
+<p>
+<img src="images/navbar-collapsed.png">
+</p>
+
+---
+
+<h2>Title Section</h2>
+<p>
+<img src="images/title.png">
+</p>
+
+---
+
+<h2>Features Section</h2>
+<p>
+<img src="images/features.png">
+</p>
+
+---
+
+<h2>Testimonial & Press Section</h2>
+<p>
+<img src="images/testimonials-press.png">
+</p>
+
+---
+
+<h2>Pricing Section</h2>
+<p>
+<img src="images/pricing.png">
+</p>
+
+---
+
+<h2>Call To Action Section</h2>
+<p>
+<img src="images/call-to-action.png">
+</p>
+
+---
+
+<h2>Footer & Social Media Section</h2>
+<p>
+<img src="images/call-to-action.png">
+</p>
