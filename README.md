@@ -52,5 +52,5 @@ This is a static responsive website called Tindog. This is a fun made-up dating 
 
 <h2>Footer & Social Media Section</h2>
 <p>
-<img src="images/call-to-action.png">
+<img src="images/footer-social-media.png">
 </p>
